@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "movement_adjuster",
+    "slug": "movement_adjuster",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "movement_adjuster"
+}
